@@ -11,9 +11,9 @@ Atualmente estudando lógica de programação, Git/GitHub e Python.
 <p>
   <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
-Portugol Studio
-<\p>
+<p´>Portugol Studio
 Python
+</p>
 
 ## Projetos
 
